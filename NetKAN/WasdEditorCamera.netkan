@@ -8,5 +8,8 @@
     "version"     : "May20",
     "ksp_version" : "1.0.2",
     "license"     : "Limited",
-    "download"    : "http://dl.dropboxusercontent.com/u/7121093/ksp-mods/KSP%5B1.0.2%5DWasdEditorCamera%5BMay20%5D.zip"
+    "download"    : "http://dl.dropboxusercontent.com/u/7121093/ksp-mods/KSP%5B1.0.2%5DWasdEditorCamera%5BMay20%5D.zip",
+	"resources"   : {
+		"homepage": "http://forum.kerbalspaceprogram.com/threads/122297"
+	}
 }
